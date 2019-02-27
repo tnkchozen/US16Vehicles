@@ -7,7 +7,7 @@ package vehicles;
 
 /**
  *
- * @author Edmun
+ * @author Edmund 991531421
  */
 public class Vehicle {
     
