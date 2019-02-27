@@ -8,6 +8,7 @@ package vehicles;
 /**
  *
  * @author Edmund 991531421
+ * Midterm Review - February 27, 2019
  */
 public class Vehicle {
     
