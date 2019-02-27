@@ -9,6 +9,7 @@ package vehicles;
  *
  * @author JBZ 
  * Chozen One
+ *Additional settings
  */
 public class Driver {
 
