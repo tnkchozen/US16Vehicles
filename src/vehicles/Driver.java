@@ -10,7 +10,7 @@ package vehicles;
  * @author JBZ 
  * Chozen One
  * Additional settings
- * Juicy Jones
+ * Juicy Jones is a world champ
  */
 public class Driver {
 
