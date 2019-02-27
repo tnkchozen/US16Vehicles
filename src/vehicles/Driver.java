@@ -21,6 +21,7 @@ public class Driver {
     public static void main(String[] args) {
         // TODO code application logic here
         Vehicle v1 = new Vehicle();
+        Vehicle v2 = new Vehicle();
     }
     
     public void promptUser() {
