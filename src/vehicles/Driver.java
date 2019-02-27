@@ -9,7 +9,8 @@ package vehicles;
  *
  * @author JBZ 
  * Chozen One
- *Additional settings
+ * Additional settings
+ * Juicy Jones
  */
 public class Driver {
 
