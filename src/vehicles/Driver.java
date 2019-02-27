@@ -7,7 +7,7 @@ package vehicles;
 
 /**
  *
- * @author Administrator
+ * @author JBZ
  */
 public class Driver {
 
@@ -16,6 +16,7 @@ public class Driver {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Vehicle v1 = new Vehicle();
     }
     
     public void promptUser() {
