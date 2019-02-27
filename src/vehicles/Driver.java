@@ -12,6 +12,7 @@ package vehicles;
  * Additional settings
  * Juicy Jones is a world champ
  * More changes
+ * Getting Repetitive
  */
 public class Driver {
 
